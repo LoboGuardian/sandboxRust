@@ -1,6 +1,35 @@
 # sandboxRust
 
-Here's a suggested roadmap to learn Rust:
+This repository is a personal sandbox for exploring and experimenting with various aspects of Rust.  It's a place to try out new language features, test different approaches, and generally play around with Rust code.
+
+## Purpose
+
+*   **Learning:** Deepen my understanding of Rust.
+*   **Prototyping:** Quickly prototype Rust ideas.
+*   **Exploration:** Explore Rust libraries and techniques.
+
+## Contents
+
+Organized into directories by topic:
+
+*   `algorithms`: Rust algorithm implementations.
+*   `data_structures`: Rust data structure experiments.
+*   `concurrency`: Rust concurrency and parallelism.
+*   `wasm`: WebAssembly experiments with Rust.
+
+## How to Use
+
+Browse the code. Open issues or submit pull requests for suggestions.
+
+## Contributing
+
+Contributions are welcome.
+
+## License
+
+MIT License (see LICENSE file).
+
+### Roadmap
 
 Phase 1: Foundations (1-2 weeks)
 
